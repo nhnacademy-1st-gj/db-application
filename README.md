@@ -1,1 +1,21 @@
-# db-application
+# What I learned in the DB application class
+
+- JDBC
+- Preparing databases and schemas
+- JDBC driver and Connection
+- Database query using JDBC
+- Database registration, modification, and deletion using JDBC
+- Connection pool
+- Transaction
+- Join and pagination
+- Spring Framework's JdbcTemplate
+- How to use MyBatis
+- MyBatis in Spring Framework
+- Relational databases and ORM
+- JPA
+- Entity mapping
+- Relationship mapping
+- Repository
+- Advanced repository
+- Query DSL
+- N+1 problem
